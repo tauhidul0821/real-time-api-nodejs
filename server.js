@@ -5,7 +5,7 @@ const app = express();
 const PORT = 3000;
 
 // Replace with your actual MongoDB URL
-const MONGO_URI = 'mongodb+srv://username:password@cluster0.i0bnb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0\n';
+const MONGO_URI = 'mongodb+srv://tauhidulwebdev:tuHidul2093@cluster0.i0bnb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0\n';
 
 // Connect to MongoDB
 mongoose.connect(MONGO_URI, {
